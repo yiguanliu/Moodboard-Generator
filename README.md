@@ -1,2 +1,0 @@
-# Moodboard-Generator
-Moodboard generator 
